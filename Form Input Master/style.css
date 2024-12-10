@@ -1,0 +1,77 @@
+* {
+    font-family: "Open Sans";
+}
+
+body {
+    margin-top: 50px;
+}
+
+.form-container {
+    box-shadow: 0px 0px 10px black;
+    font-family: arial;
+    width: 50%;
+    margin-inline: auto;
+    padding-inline: 20px;
+    padding-block: 40px;
+    background-color: gainsboro;
+    border: 1px solid black;
+}
+
+
+h1 {
+    font-family: "Open Sans";
+    text-align: center;    
+}
+
+table {
+    margin-inline: auto;
+    border-collapse: collapse;
+    box-shadow: 0px 0px 10px black;
+}
+
+table tr, th, td {
+    border: 1px solid black;
+    margin-inline: auto;
+    padding-inline: 20px;
+    padding-block: 40px;
+}
+
+table th {
+    background-color: gainsboro;
+    height: 0px;
+}
+
+input {
+    border-radius: 10px;
+    border: 0px;
+    padding: 5px;
+    width: 500px;
+    height: 30px;
+    margin-left: 10px;
+    box-shadow: 0px 0px 10px black;
+    font-size: 15px;
+}
+
+select {
+    border-radius: 10px;
+    border: 0px;
+    padding: 5px;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    margin-left: 10px;
+    box-shadow: 0px 0px 10px black;
+}
+
+button {
+    padding: 10px 30px 10px 30px;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 15px;
+}
+
+select {
+    padding: 5px;
+    margin-left: 10px;
+}
